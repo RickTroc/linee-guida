@@ -3,4 +3,3 @@ site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
 nav:
-  - Getting Started: index.md
