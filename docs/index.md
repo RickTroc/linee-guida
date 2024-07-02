@@ -93,21 +93,21 @@ I principi fondamentali del DevSecOps comprendono l'integrazione della sicurezza
 
 Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispondere rapidamente alle minacce emergenti, garantire la conformità con le normative e, soprattutto, costruire software sicuro e affidabile che protegga i dati e la privacy degli utenti.
 
-   #### Integrazione continua della sicurezza
+####    Integrazione continua della sicurezza
    L'inversione di paradigma proprio del modello DevSecOps è 
-   #### Automazione
-   #### Collaborazione tra team
-   ##### Responsabilità condivisa
-   #### Cultura della Sicurezza
-   ##### Formazione e sensibilizzazione
-   #### Misurazione e Monitoravvio
+####    Automazione
+####    Collaborazione tra team
+#####    Responsabilità condivisa
+####    Cultura della Sicurezza
+#####    Formazione e sensibilizzazione
+####    Misurazione e Monitoravvio
    #### Risposta Rapida 
 
 
 
 ## Capitolo 2: Strumenti e Automazione
 ### Strumenti di Automazione della Sicurezza
-   #### Gli strumenti della Piattaforma di Sviluppo Integrato
+####   Gli strumenti della Piattaforma di Sviluppo Integrato
    - Code Quality
    - SAST
    - Depency Scanning
