@@ -95,13 +95,13 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
 
 ####    Integrazione continua della sicurezza
    L'inversione di paradigma proprio del modello DevSecOps è 
-####    Automazione
-####    Collaborazione tra team
-#####    Responsabilità condivisa
-####    Cultura della Sicurezza
-#####    Formazione e sensibilizzazione
-####    Misurazione e Monitoravvio
-####    Risposta Rapida 
+- ####    Automazione
+- ####    Collaborazione tra team
+   - #####    Responsabilità condivisa
+- ####    Cultura della Sicurezza
+   - #####    Formazione e sensibilizzazione
+- ####    Misurazione e Monitoravvio
+- ####    Risposta Rapida 
 
 
 
@@ -122,23 +122,23 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
 
 ## Capitolo 3: Pratiche di Codifica Sicura
 ### Linee Guida per la Scrittura di Codice Sicuro
-#### L'architettura applicativa e la sicurezza delle applicazioni
-#### Best practice di codifica
-#### Common Weakness Enumeration (CWE) e mitigazioni
+- #### L'architettura applicativa e la sicurezza delle applicazioni
+- #### Best practice di codifica
+- #### Common Weakness Enumeration (CWE) e mitigazioni
 ### Gestione delle Dipendenze
-#### Verifica e aggiornamento delle dipendenze
-#### Strumenti per la gestione delle vulnerabilità nelle librerie
+- #### Verifica e aggiornamento delle dipendenze
+- #### Strumenti per la gestione delle vulnerabilità nelle librerie
 ### Static Application Security Testing (SAST)
-#### Integrazione di SAST nelle pipeline CI/CD
-#### Analisi dei risultati e risoluzione delle vulnerabilità
+- #### Integrazione di SAST nelle pipeline CI/CD
+- #### Analisi dei risultati e risoluzione delle vulnerabilità
 
 ## Capitolo 4: Sicurezza delle API
 ### Progettazione di API Sicure
-#### Autenticazione e autorizzazione
-#### Protezione da attacchi comuni (es. SQL Injection, XSS)
+- #### Autenticazione e autorizzazione
+- #### Protezione da attacchi comuni (es. SQL Injection, XSS)
 ### Testing delle API
-#### Strumenti per il testing delle API
-#### Automazione dei test di sicurezza delle API 
+- #### Strumenti per il testing delle API
+- #### Automazione dei test di sicurezza delle API 
  
  
 ## Capitolo 5: Gestione delle Identità e degli Accessi (IAM)
