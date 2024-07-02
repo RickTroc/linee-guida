@@ -167,46 +167,46 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
 - Configurazione dei certificati SSL/TLS
   - Strumenti per la verifica della sicurezza del traffico
 ### Sicurezza dei Dati a Riposo
-   - Crittografia dei dati a riposo
-     - Crittografia a livello di disco
-     - Crittografia a livello di database
-   - Gestione delle chiavi di crittografia
-     - Best practice per la gestione delle chiavi
-     - Strumenti di gestione delle chiavi (KMS)
-   - Backup e ripristino sicuro dei dati
-     - Metodi di backup sicuro
-     - Procedure di ripristino sicuro
+- Crittografia dei dati a riposo
+   - Crittografia a livello di disco
+   - Crittografia a livello di database
+- Gestione delle chiavi di crittografia
+   - Best practice per la gestione delle chiavi
+   - Strumenti di gestione delle chiavi (KMS)
+- Backup e ripristino sicuro dei dati
+   - Metodi di backup sicuro
+   - Procedure di ripristino sicuro
 
 
 ## Capitolo 8: Logging e Auditing
 ### Implementazione del Logging Sicuro
-   - Linee guida per il logging
-   - Strumenti per la gestione centralizzata dei log
+- Linee guida per il logging
+- Strumenti per la gestione centralizzata dei log
 ### Auditing e Monitoraggio
-   - Configurazione di audit trail
-   - Strumenti di auditing e monitoraggio
+- Configurazione di audit trail
+- Strumenti di auditing e monitoraggio
 
 ## Capitolo 9: Gestione delle Vulnerabilità
 ### Identificazione e Classificazione delle Vulnerabilità
-   - Strumenti per la scansione delle vulnerabilità
-   - Analisi e classificazione dei risultati
+- Strumenti per la scansione delle vulnerabilità
+- Analisi e classificazione dei risultati
 ### Mitigazione e Risoluzione
-   - Pianificazione della risoluzione delle vulnerabilità
-   - Automazione delle patch e aggiornamenti
+- Pianificazione della risoluzione delle vulnerabilità
+- Automazione delle patch e aggiornamenti
 
 ## Capitolo 10: Testing di Sicurezza
 ### Dynamic Application Security Testing (DAST)
-   - Configurazione e utilizzo di strumenti DAST
-   - Analisi dei risultati e mitigazioni
+- Configurazione e utilizzo di strumenti DAST
+- Analisi dei risultati e mitigazioni
 ### Penetration Testing
-   - Strumenti e metodologie
-   - Integrazione nei processi DevSecOps
+- Strumenti e metodologie
+- Integrazione nei processi DevSecOps
  
 ## Capitolo 11: Risposta agli Incidenti di Sicurezza
 ### Piani di Risposta agli Incidenti
-   - Creazione e manutenzione dei piani
-   - Procedure di comunicazione
+- Creazione e manutenzione dei piani
+- Procedure di comunicazione
 ### Procedure di Mitigazione
-   - Identificazione e contenimento degli incidenti
-   - Analisi post-incident e miglioramenti
+- Identificazione e contenimento degli incidenti
+- Analisi post-incident e miglioramenti
 
