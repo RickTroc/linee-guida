@@ -143,29 +143,29 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
  
 ## Capitolo 5: Gestione delle Identità e degli Accessi (IAM)
 ### Principi di Gestione delle Identità
-   - Best practice per la gestione delle identità
-   - Modelli di autenticazione e autorizzazione
+- Best practice per la gestione delle identità
+- Modelli di autenticazione e autorizzazione
 ### Integrazione con IAM
-   - Configurazione e gestione dell'IAM
-   - Strumenti e tecniche per l'integrazione
+- Configurazione e gestione dell'IAM
+- Strumenti e tecniche per l'integrazione
 
 ## Capitolo 6: Gestione dei Profili
 ### Gestione dei Profili Utente
-   - Creazione e manutenzione dei profili utente
-   - Politiche di accesso basate sui ruoli
-   - Gestione delle autorizzazioni
+- Creazione e manutenzione dei profili utente
+- Politiche di accesso basate sui ruoli
+- Gestione delle autorizzazioni
 ### Sicurezza dei Dati dei Profili
-   - Crittografia e protezione dei dati sensibili
-   - Tecniche di anonimizzazione e pseudonimizzazione
+- Crittografia e protezione dei dati sensibili
+- Tecniche di anonimizzazione e pseudonimizzazione
 
  
 ## Capitolo 7: Sicurezza dei Dati
 ### Sicurezza dei Dati in Transito
-   - Crittografia dei dati in transito
-     - Protocollo HTTPS
-     - TLS (Transport Layer Security)
-   - Configurazione dei certificati SSL/TLS
-   - Strumenti per la verifica della sicurezza del traffico
+- Crittografia dei dati in transito
+  - Protocollo HTTPS
+  - TLS (Transport Layer Security)
+- Configurazione dei certificati SSL/TLS
+  - Strumenti per la verifica della sicurezza del traffico
 ### Sicurezza dei Dati a Riposo
    - Crittografia dei dati a riposo
      - Crittografia a livello di disco
