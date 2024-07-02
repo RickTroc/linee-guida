@@ -95,13 +95,13 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
 
 ####    Integrazione continua della sicurezza
    L'inversione di paradigma proprio del modello DevSecOps è 
-- ####    Automazione
-- ####    Collaborazione tra team
-   - #####    Responsabilità condivisa
-- ####    Cultura della Sicurezza
-   - #####    Formazione e sensibilizzazione
-- ####    Misurazione e Monitoravvio
-- ####    Risposta Rapida 
+- **Automazione**
+- **Collaborazione tra team**
+   - **Responsabilità condivisa**
+- **Cultura della Sicurezza**
+   - **Formazione e sensibilizzazione**
+- **Misurazione e Monitoravvio**
+- **Risposta Rapida**
 
 
 
