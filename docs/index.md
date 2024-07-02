@@ -84,7 +84,7 @@ L'approccio DevSecOps si sostanzia in una trasformazione culturale e tecnica che
 
 Per una trattazione più completa ed approfondita del Modello Organizzativo DevSecOps adottato all'interno del contesto della DGMOT e delle best practice relative al processo di sviluppo si rinvia al documento ["Processo DevSecOps"](https://backstage.servizidt.it/docs/processo_devsecops.html).
 
-Nel documento ["Processo DevSecOps"](/processo_devsecops/index.md) sono, inoltre, forniti maggiori dettagli in relazione alle attività di analisi dei rischi e definizione delle architetture di sicurezza delle soluzioni applicative.
+Nel documento ["Processo DevSecOps"](prova.md) sono, inoltre, forniti maggiori dettagli in relazione alle attività di analisi dei rischi e definizione delle architetture di sicurezza delle soluzioni applicative.
 
 ### Principi di Base
 In questo paragrafo verranno brevemente richiamati i principi fondamentali che disciplinano l'approccio DevSecOps.
