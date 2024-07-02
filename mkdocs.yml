@@ -3,3 +3,5 @@ site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
 nav:
+  - linee giuda: index.md
+  - pagina successiva: prova.md
