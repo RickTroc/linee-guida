@@ -108,12 +108,12 @@ Attraverso l'adozione di un approccio DevSecOps, le organizzazioni possono rispo
 ## Capitolo 2: Strumenti e Automazione
 ### Strumenti di Automazione della Sicurezza
 ####   Gli strumenti della Piattaforma di Sviluppo Integrato
-   - Code Quality
-   - SAST
-   - Depency Scanning
-   - Container Scanning
-   - Licence Scanning
-   - IAST
+- Code Quality
+- SAST
+- Depency Scanning
+- Container Scanning
+- Licence Scanning
+- IAST
 #### Best practice per l'uso degli strumenti di automazione
 ### Integrazione nei Workflow DevOps
 #### Configurazione di pipeline CI/CD sicure
