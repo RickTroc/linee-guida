@@ -4,7 +4,8 @@
 ### Obiettivi del Documento
 #### Scopo delle linee guida
 
-["Esempio"](../prova2) Linee Guida di Sviluppo Sicuro contengono le convenzioni standard da adottare nell'ambito degli sviluppi del Sistema Informativo del Dipartimento Trasporti (SIDT) della Direzione generale per la motorizzazione (DGMOT).
+["Esempio"](../prova2) 
+Queste Linee Guida di Sviluppo Sicuro contengono le convenzioni standard da adottare nell'ambito degli sviluppi del Sistema Informativo del Dipartimento Trasporti (SIDT) della Direzione generale per la motorizzazione (DGMOT).
 
 Tutti i team di sviluppo sono tenuti ad uniformarsi alle indicazioni fornite nelle presenti Linee Guida.
 
