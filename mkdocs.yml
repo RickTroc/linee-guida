@@ -1,9 +1,9 @@
-site_name: "linee-guida"
+site_name: "linee guida"
 site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
 nav:
-  - linee giuda: index.md
+  - linee guida: index.md
   - pagina successiva: prova.md
 markdown_extensions:
   - toc:
