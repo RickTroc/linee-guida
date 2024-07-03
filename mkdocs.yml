@@ -5,3 +5,6 @@ plugins:
 nav:
   - linee giuda: index.md
   - pagina successiva: prova.md
+markdown_extensions:
+  - toc:
+      title: Sommario
