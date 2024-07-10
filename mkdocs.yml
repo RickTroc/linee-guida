@@ -3,8 +3,9 @@ site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
 nav:
-  - linee guida: index.md
-  - pagina successiva: prova.md
+  - linee guida:
+    - linee guida: index.md
+    - pagina successiva: prova.md
 markdown_extensions:
   - toc:
       title: Sommario
