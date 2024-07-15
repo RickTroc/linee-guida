@@ -47,7 +47,7 @@ nav:
             - Concepts: 'features/search/concepts.md'
             - Search Architecture: 'features/search/architecture.md'
             - Search Engines: 'features/search/search-engines.md'
-            - HOW TO guides: 'features/search/how-to-guides.md'  - linee guida:
+            - HOW TO guides: 'features/search/how-to-guides.md'  
     - linee guida: index.md
     - pagina successiva: prova.md
 markdown_extensions:
