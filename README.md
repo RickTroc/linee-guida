@@ -1,6 +1,6 @@
 Per la corretta formattazione dei documenti è necessario impostare l'intestazione ad inizio riga:
 #### in questo modo la riga verrà visualizzata correttamente
-     #### in questo modo verrano visualizzati gli asterischi prima della riga
+     #### in questo modo verrano visualizzati i cancelletti prima della riga
 Questa regola vale anche per elenchi:
 ## Elenco corretto
 - sub 1
