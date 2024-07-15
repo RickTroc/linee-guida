@@ -12,7 +12,7 @@ nav:
     - Per iniziare:
         - Predisporre l'ambiente di sviluppo: 'getting-started/index.md'
         - Configurazione di un nuovo progetto:
-            - Repository del Codice: 'getting-started/config/code-repos.md'
+            - Repository del Codice: 'getting-started/config/code-repo.md'
             - Database: 'getting-started/config/database.md'
             - Autenticazione: 'getting-started/config/authentication.md'
             - Plugins: 'getting-started/plugins.md'
